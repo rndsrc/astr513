@@ -14,7 +14,7 @@ kernelspec:
 
 # Interpolation and Extrapolation
 
-This lecture follows closely (2nd Edition in C and 3rd Edition in C++), Chapter 3 "Interpolation and Extrapolation".
+This lecture follows closely (2nd Edition in C and 3rd Edition in C++), Chapter 3 "Interpolation and Extrapolations".
 
 +++
 
